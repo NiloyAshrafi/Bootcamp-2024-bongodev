@@ -1,0 +1,15 @@
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+img {
+    max-width: 100%;
+    box-shadow: 10px 10px 40px coral;
+    border-radius: 50%;
+}
+.resume {
+    border: 1px solid coral;
+    padding: 10px;
+    border-radius: 15px;
+}
